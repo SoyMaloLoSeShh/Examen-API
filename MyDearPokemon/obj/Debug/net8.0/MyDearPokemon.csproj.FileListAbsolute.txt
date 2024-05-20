@@ -1,0 +1,11 @@
+C:\Users\josed\OneDrive\Desktop\Examen API\ExamenPokemon\MyDearPokemon\bin\Debug\net8.0\MyDearPokemon.deps.json
+C:\Users\josed\OneDrive\Desktop\Examen API\ExamenPokemon\MyDearPokemon\bin\Debug\net8.0\MyDearPokemon.dll
+C:\Users\josed\OneDrive\Desktop\Examen API\ExamenPokemon\MyDearPokemon\bin\Debug\net8.0\MyDearPokemon.pdb
+C:\Users\josed\OneDrive\Desktop\Examen API\ExamenPokemon\MyDearPokemon\obj\Debug\net8.0\MyDearPokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josed\OneDrive\Desktop\Examen API\ExamenPokemon\MyDearPokemon\obj\Debug\net8.0\MyDearPokemon.AssemblyInfoInputs.cache
+C:\Users\josed\OneDrive\Desktop\Examen API\ExamenPokemon\MyDearPokemon\obj\Debug\net8.0\MyDearPokemon.AssemblyInfo.cs
+C:\Users\josed\OneDrive\Desktop\Examen API\ExamenPokemon\MyDearPokemon\obj\Debug\net8.0\MyDearPokemon.csproj.CoreCompileInputs.cache
+C:\Users\josed\OneDrive\Desktop\Examen API\ExamenPokemon\MyDearPokemon\obj\Debug\net8.0\MyDearPokemon.dll
+C:\Users\josed\OneDrive\Desktop\Examen API\ExamenPokemon\MyDearPokemon\obj\Debug\net8.0\refint\MyDearPokemon.dll
+C:\Users\josed\OneDrive\Desktop\Examen API\ExamenPokemon\MyDearPokemon\obj\Debug\net8.0\MyDearPokemon.pdb
+C:\Users\josed\OneDrive\Desktop\Examen API\ExamenPokemon\MyDearPokemon\obj\Debug\net8.0\ref\MyDearPokemon.dll
